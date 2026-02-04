@@ -6,3 +6,9 @@
 
 - [IE Business School](https://www.ie.edu)
 - [Columbia University](https://www.columbia.edu)
+
+## Professional Interests
+
+- Sport
+- Travel
+- Reading
